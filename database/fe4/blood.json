@@ -1,0 +1,191 @@
+{
+    "baldr": {
+        "name": "Baldr",
+        "rank": "sword",
+        "major": "<:baldr:1124954634902065212><a:major:1124956246303322175>",
+        "minor": "<:baldr:1124954634902065212><a:minor:1124956184961622027>",
+        "weapon": "tyrfing",
+        "bonus": {
+            "hp": 20,
+            "str": 10,
+            "skl": 10,
+            "lck": 10
+        },
+        "ALT_NAME": [
+            "baldur",
+            "baldo",
+            "bado"
+        ]
+    },
+    "bragi": {
+        "name": "Bragi",
+        "rank": "staff",
+        "major": "<:bragi:1124954559077425216><a:major:1124956246303322175>",
+        "minor": "<:bragi:1124954559077425216><a:minor:1124956184961622027>",
+        "weapon": "valkyrie",
+        "bonus": {
+            "hp": 10,
+            "mag": 10,
+            "lck": 10,
+            "res": 20
+        },
+        "ALT_NAME": [
+            "blaggi",
+            "braggi",
+            "blagi"
+        ]
+    },
+    "dainn": {
+        "name": "D\u00e1inn",
+        "rank": "lance",
+        "major": "<:dainn:1124954667848310884><a:major:1124956246303322175>",
+        "minor": "<:dainn:1124954667848310884><a:minor:1124956184961622027>",
+        "weapon": "gungnir",
+        "bonus": {
+            "hp": 20,
+            "spd": 30
+        },
+        "ALT_NAME": [
+            "dain",
+            "daen"
+        ]
+    },
+    "fjalar": {
+        "name": "Fjalar",
+        "rank": "fire",
+        "major": "<:fjalar:1124954685443416194><a:major:1124956246303322175>",
+        "minor": "<:fjalar:1124954685443416194><a:minor:1124956184961622027>",
+        "weapon": "valflame",
+        "bonus": {
+            "hp": 20,
+            "mag": 30
+        },
+        "ALT_NAME": [
+            "fala",
+            "fjalar"
+        ]
+    },
+    "forseti": {
+        "name": "Forseti",
+        "rank": "wind",
+        "major": "<:forseti:1124954580573241395><a:major:1124956246303322175>",
+        "minor": "<:forseti:1124954580573241395><a:minor:1124956184961622027>",
+        "weapon": "forseti",
+        "bonus": {
+            "hp": 20,
+            "spd": 30
+        },
+        "ALT_NAME": [
+            "sety",
+            "ced",
+            "forsety"
+        ]
+    },
+    "hodr": {
+        "name": "Hoðr",
+        "rank": "sword",
+        "major": "<:hodr:1124954511195242596><a:major:1124956246303322175>",
+        "minor": "<:hodr:1124954511195242596><a:minor:1124956184961622027>",
+        "weapon": "mystletainn",
+        "bonus": {
+            "hp": 20,
+            "str": 30
+        },
+        "ALT_NAME": ["hezul"]
+    },
+    "loptous": {
+        "name": "Loptous",
+        "rank": "dark",
+        "major": "<:loptous:1124954705693523978><a:major:1124956246303322175>",
+        "minor": "<:loptous:1124954705693523978><a:minor:1124956184961622027>",
+        "weapon": "loptous",
+        "bonus": {
+            "hp": 10,
+            "mag": 20,
+            "res": 20
+        },
+        "ALT_NAME": [
+            "loptyr"
+        ]
+    },
+    "naga": {
+        "name": "Naga",
+        "rank": "light",
+        "major": "<:naga:1124954732562227240><a:major:1124956246303322175>",
+        "minor": "<:naga:1124954732562227240><a:minor:1124956184961622027>",
+        "weapon": "naga",
+        "bonus": {
+            "hp": 10,
+            "mag": 20,
+            "res": 20
+        }
+    },
+    "nal": {
+        "name": "Nál",
+        "rank": "axe",
+        "major": "<:nal:1124954534838554656><a:major:1124956246303322175>",
+        "minor": "<:nal:1124954534838554656><a:minor:1124956184961622027>",
+        "weapon": "helswath",
+        "bonus": {
+            "hp": 20,
+            "def": 30
+        },
+        "ALT_NAME": ["neir"]
+    },
+    "njorun": {
+        "name": "Nj\u00f6run",
+        "rank": "lance",
+        "major": "<:njorun:1124954753072365620><a:major:1124956246303322175>",
+        "minor": "<:njorun:1124954753072365620><a:minor:1124956184961622027>",
+        "weapon": "gaebolg",
+        "bonus": {
+            "hp": 20,
+            "str": 10,
+            "spd": 10,
+            "def": 10
+        },
+        "ALT_NAME": [
+            "noba",
+            "nova"
+        ]
+    },
+    "od": {
+        "name": "Od",
+        "rank": "sword",
+        "major": "<:od:1124954782617055313><a:major:1124956246303322175>",
+        "minor": "<:od:1124954782617055313><a:minor:1124956184961622027>",
+        "weapon": "balmung",
+        "bonus": {
+            "hp": 20,
+            "skl": 30
+        },
+        "ALT_NAME": [
+            "odo"
+        ]
+    },
+    "thrud": {
+        "name": "Thrud",
+        "rank": "thunder",
+        "major": "<:thrud:1124954827793911874><a:major:1124956246303322175>",
+        "minor": "<:thrud:1124954827793911874><a:minor:1124956184961622027>",
+        "weapon": "mjolnir",
+        "bonus": {
+            "hp": 20,
+            "skl": 30
+        },
+        "ALT_NAME": [
+            "tordo"
+        ]
+    },
+    "ullr": {
+        "name": "Ullr",
+        "rank": "bow",
+        "major": "<:ullr:1124954492023095367><a:major:1124956246303322175>",
+        "minor": "<:ullr:1124954492023095367><a:minor:1124956184961622027>",
+        "weapon": "yewfelle",
+        "bonus": {
+            "hp": 20,
+            "lck": 30
+        }
+    }
+}

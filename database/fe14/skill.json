@@ -1,0 +1,1773 @@
+{
+    "achingblood": {
+        "name": "Aching Blood",
+        "emoji": "<:fe14_achingblood:1135743261693182022>",
+        "desc": "Crit +10 when using a custom weapon with a name at least 12 characters long.",
+        "reference": {
+            "Personal": "Odin"
+        }
+    },
+    "aegis": {
+        "name": "Aegis",
+        "emoji": "<:fe14_aegis:1135666400661356564>",
+        "desc": "Halve bow/tome/dragonstone/breath/rock/shuriken damage. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "Paladin (Lv. 15)"
+        }
+    },
+    "aether": {
+        "name": "Aether",
+        "emoji": "<:fe14_aether:1152880267405557801>",
+        "desc": "Use Sol and Luna in succession when attacking. Trigger % = (Skill stat \u00d7 0.5)",
+        "reference": {
+            "Class": "Great Lord (Lv. 25)\nVanguard (Lv. 25)"
+        }
+    },
+    "aggressor": {
+        "name": "Aggressor",
+        "emoji": "<:fe14_aggressor:1135666795295031387>",
+        "desc": "This unit deals +7 damage when he or she initiates the attack.",
+        "reference": {
+            "Class": "Dread Fighter (Lv. 35)"
+        }
+    },
+    "airsuperiority": {
+        "name": "Air Superiority",
+        "emoji": "<:fe14_airsuperiority:1135666796624629810>",
+        "desc": "Grants Hit/Avo+30 when battling flying enemies.",
+        "reference": {
+            "Class": "Kinshi Knight (Lv. 5)"
+        }
+    },
+    "amaterasu": {
+        "name": "Amaterasu",
+        "emoji": "<:fe14_amaterasu:1135666798025519356>",
+        "desc": "Restores up to 20% HP of allies within two spaces at the start of each turn.",
+        "reference": {
+            "Class": "Kinshi Knight (Lv. 15)"
+        }
+    },
+    "aptitude": {
+        "name": "Aptitude",
+        "emoji": "<:fe14_aptitude:1128593908134322237>",
+        "desc": "Adds 10% to each stat's odds of increasing at level up.",
+        "reference": {
+            "Class": "Villager (Lv. 1)"
+        }
+    },
+    "armoredblow": {
+        "name": "Armored Blow",
+        "emoji": "<:fe14_armoredblow:1135666802186272981>",
+        "desc": "Unit receives -10 physical damage when the unit initiates an attack.",
+        "reference": {
+            "Class": "Great Knight (Lv. 15)"
+        }
+    },
+    "astra": {
+        "name": "Astra",
+        "emoji": "<:fe14_astra:1152880292646887457>",
+        "desc": "Strike five times at half damage. Trigger % = (Skill stat \u00d7 0.5)",
+        "reference": {
+            "Class": "Swordmaster (Lv. 5)"
+        }
+    },
+    "awakening": {
+        "name": "Awakening",
+        "emoji": "<:fe14_awakening:1135666806510583919>",
+        "desc": "Grants +30 to Hit/Avo/Crit/Ddg when HP is half or less.",
+        "reference": {
+            "Class": "Great Lord (Lv. 35)"
+        }
+    },
+    "axebreaker": {
+        "name": "Axebreaker",
+        "emoji": "<:fe14_axebreaker:1152880314234974258>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using an axe/club.",
+        "reference": {
+            "Class": "Hero (Lv. 15)"
+        }
+    },
+    "axefaire": {
+        "name": "Axefaire",
+        "emoji": "<:fe14_axefaire:1135666809740214412>",
+        "desc": "+5 damage dealt if using an axe/club.",
+        "reference": {
+            "Class": "Berserker (Lv. 15)"
+        }
+    },
+    "beastbane": {
+        "name": "Beastbane",
+        "emoji": "<:fe14_beastbane:1152880334409580635>",
+        "desc": "Enables unit in animal form to deal bonus damage to beasts.",
+        "reference": {
+            "Class": "Kitsune (Lv. 10)\nWolfskin (Lv. 10)"
+        }
+    },
+    "betterodds": {
+        "name": "Better Odds",
+        "emoji": "<:fe14_betterodds:1135666847027581031>",
+        "desc": "Restores up to 40% HP at the start of odd-numbered turns.",
+        "reference": {
+            "Class": "Wolfssegner (Lv. 5)"
+        }
+    },
+    "bibliophile": {
+        "name": "Bibliophile",
+        "emoji": "<:fe14_bibliophile:1135743263584817263>",
+        "desc": "Grants Crit+10 when this unit is carrying three or more tomes/scrolls.",
+        "reference": {
+            "Personal": "Ophelia"
+        }
+    },
+    "bloodthirst": {
+        "name": "Bloodthirst",
+        "emoji": "<:fe14_bloodthirst:1135743264746639360>",
+        "desc": "If unit attacks and defeats a foe, grants +4 to Str/Mag/Skill/Spd for one turn.",
+        "reference": {
+            "Personal": "Peri"
+        }
+    },
+    "boldstance": {
+        "name": "Bold Stance",
+        "emoji": "<:fe14_boldstance:1135666849170866247>",
+        "desc": "When paired, this unit's partner fights as if backing up instead of being in cover.",
+        "reference": {}
+    },
+    "bornsteward": {
+        "name": "Born Steward",
+        "emoji": "<:fe14_bornsteward:1135743265665196085>",
+        "desc": "Grants Hit/Avo+20, +2 damage dealt, and -2 damage received in battle at the castle.",
+        "reference": {
+            "Personal": "Dwyer"
+        }
+    },
+    "bowbreaker": {
+        "name": "Bowbreaker",
+        "emoji": "<:fe14_bowbreaker:1152880369352319016>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using a bow/yumi.",
+        "reference": {
+            "Class": "Sorcerer (Lv. 15)"
+        }
+    },
+    "bowfaire": {
+        "name": "Bowfaire",
+        "emoji": "<:fe14_bowfaire:1152880371768234024>",
+        "desc": "+5 damage dealt if using a bow/yumi.",
+        "reference": {
+            "Class": "Sniper (Lv. 15)"
+        }
+    },
+    "bushido": {
+        "name": "Bushido",
+        "emoji": "<:fe14_bushido:1135743267955286027>",
+        "desc": "If supported by a same or lower-level unit, grants Crit+10 and +2/-2 dmg dealt/taken.",
+        "reference": {
+            "Personal": "Ryoma"
+        }
+    },
+    "calm": {
+        "name": "Calm",
+        "emoji": "<:fe14_calm:1135743269817548891>",
+        "desc": "Use \"Wait\" to gain Skill/Res+4 for one turn.",
+        "reference": {
+            "Personal": "Hisame"
+        }
+    },
+    "camaraderie": {
+        "name": "Camaraderie",
+        "emoji": "<:fe14_camaraderie:1135666854560530484>",
+        "desc": "Restores up to 10% HP each turn if an ally is within two spaces.",
+        "reference": {
+            "Class": "Sky Knight (Lv. 10)"
+        }
+    },
+    "capture": {
+        "name": "Capture",
+        "emoji": "<:fe14_capture:1135743271335907338>",
+        "desc": "Grants Capture command if the castle has a prison. Imprisons defeated foes.",
+        "reference": {
+            "Personal": "Orochi"
+        }
+    },
+    "certainblow": {
+        "name": "Certain Blow",
+        "emoji": "<:fe14_certainblow:1135666856066289784>",
+        "desc": "Grants Hit+40 when the unit initiates an attack.",
+        "reference": {
+            "Class": "Sniper (Lv. 5)"
+        }
+    },
+    "charm": {
+        "name": "Charm",
+        "emoji": "<:fe14_charm:1135666858117312634>",
+        "desc": "Allies within two spaces inflict +2 damage in combat.",
+        "reference": {
+            "Class": "Great Lord (Lv. 10)\nLodestar (Lv. 10)"
+        }
+    },
+    "chivalry": {
+        "name": "Chivalry",
+        "emoji": "<:fe14_chivalry:1135743273458225192>",
+        "desc": "Grants +2 to damage dealt and -2 to damage taken against foes with full HP.",
+        "reference": {
+            "Personal": "Xander"
+        }
+    },
+    "clarity": {
+        "name": "Clarity",
+        "emoji": "<:fe14_clarity:1135666859568541786>",
+        "desc": "This unit recovers from status effects at twice the normal rate.",
+        "reference": {
+            "Class": "Dread Fighter (Lv. 25)"
+        }
+    },
+    "collector": {
+        "name": "Collector",
+        "emoji": "<:fe14_collector:1135743283155452004>",
+        "desc": "May obtain 3 gems or ingredients for first seven turns. Trigger % = (Lck stat)",
+        "reference": {
+            "Personal": "Keaton"
+        }
+    },
+    "competitive": {
+        "name": "Competitive",
+        "emoji": "<:fe14_competitive:1135743284568936449>",
+        "desc": "If supported by a same or higher-level unit, grants Crit+10 and +3/-1 dmg dealt/taken.",
+        "reference": {
+            "Personal": "Takumi"
+        }
+    },
+    "counter": {
+        "name": "Counter",
+        "emoji": "<:fe14_counter:1152880400218198140>",
+        "desc": "Damage taken from an adjacent attacking enemy is also dealt back to that foe.",
+        "reference": {
+            "Class": "Oni Chieftain (Lv. 15)"
+        }
+    },
+    "countercurse": {
+        "name": "Countercurse",
+        "emoji": "<:fe14_countercurse:1135743286296969366>",
+        "desc": "If this unit is attacked with magic damage, attacker suffers half the amount as well.",
+        "reference": {
+            "Personal": "Nyx"
+        }
+    },
+    "countermagic": {
+        "name": "Countermagic",
+        "emoji": "<:fe14_countermagic:1135666862986891394>",
+        "desc": "Magic damage taken from an attacking enemy is also dealt back to that foe.",
+        "reference": {
+            "Class": "Great Master (Lv. 15)\nPriestess (Lv. 15)"
+        }
+    },
+    "dancingblade": {
+        "name": "Dancing Blade",
+        "emoji": "<:fe14_dancingblade:1135667032831037572>",
+        "desc": "This light-footed fighting style grants Spd+3 but Def-1.",
+        "reference": {
+            "Class": "Lodestar (Lv. 1)"
+        }
+    },
+    "dartingblow": {
+        "name": "Darting Blow",
+        "emoji": "<:fe14_dartingblow:1135667037616750692>",
+        "desc": "Increases chance of follow-up attack when this unit initiates an attack (+5 eff. Spd).",
+        "reference": {
+            "Class": "Sky Knight (Lv. 1)"
+        }
+    },
+    "daydream": {
+        "name": "Daydream",
+        "emoji": "<:fe14_daydream:1135743287576231936>",
+        "desc": "If adjacent to paired male allies, grants +2 damage dealt and -2 damage taken.",
+        "reference": {
+            "Personal": "Nina"
+        }
+    },
+    "deathblow": {
+        "name": "Death Blow",
+        "emoji": "<:fe14_deathblow:1135667038883426304>",
+        "desc": "Grants Crit+20 when the unit initiates an attack.",
+        "reference": {
+            "Class": "Oni Chieftain (Lv. 5)"
+        }
+    },
+    "defense2": {
+        "name": "Defense +2",
+        "emoji": "<:fe14_defenseplus2:1152880432745021470>",
+        "desc": "Grants Def+2.",
+        "reference": {
+            "Class": "Knight (Lv. 1)"
+        }
+    },
+    "defender": {
+        "name": "Defender",
+        "emoji": "<:fe14_defender:1135667041907527710>",
+        "desc": "Grants +1 to all stats when paired up as the lead unit.",
+        "reference": {
+            "Class": "Paladin (Lv. 5)"
+        }
+    },
+    "demoiselle": {
+        "name": "Demoiselle",
+        "emoji": "<:fe14_demoiselle:1152880452223373383>",
+        "desc": "Male allies within two spaces receive -2 damage in combat.",
+        "reference": {
+            "Class": "Troubadour (Lv. 10)"
+        }
+    },
+    "devotedpartner": {
+        "name": "Devoted Partner",
+        "emoji": "<:fe14_devotedpartner:1135743289606287530>",
+        "desc": "If supporting the main character, grants him or her +2 dmg dealt and -2 dmg taken.",
+        "reference": {
+            "Personal": "Felicia"
+        }
+    },
+    "divineretribution": {
+        "name": "Divine Retribution",
+        "emoji": "<:fe14_divineretribution:1135743290885546064>",
+        "desc": "If unit has no weapon equipped, adjacent foes suffer half their inflicted damage.",
+        "reference": {
+            "Personal": "Azama"
+        }
+    },
+    "draconicheir": {
+        "name": "Draconic Heir",
+        "emoji": "<:fe14_draconicheir:1135743336943194123>",
+        "desc": "Recover up to 15% of max HP at the start of each turn if a Dragonstone is equipped.",
+        "reference": {
+            "Personal": "Kana"
+        }
+    },
+    "draconichex": {
+        "name": "Draconic Hex",
+        "emoji": "<:fe14_draconichex:1135667053097918587>",
+        "desc": "After combat, reduces all of enemy's stats by 4 (recovers 1/turn).",
+        "reference": {
+            "Class": "Nohr Noble (Lv. 5)"
+        }
+    },
+    "dragonfang": {
+        "name": "Dragon Fang",
+        "emoji": "<:fe14_dragonfang:1135667054679171084>",
+        "desc": "Inflicts half of attack power as extra damage. Trigger % = (Skill stat \u00d7 0.75)",
+        "reference": {
+            "Class": "Nohr Prince(ss) (Lv. 10)"
+        }
+    },
+    "dragonskin": {
+        "name": "Dragonskin",
+        "emoji": "<:fe14_dragonskin:1135667068826550292>",
+        "desc": "Halves damage taken, crits, and off. skills. Prevents lethal, poison, and counter skills.",
+        "reference": {}
+    },
+    "dragonward": {
+        "name": "Dragon Ward",
+        "emoji": "<:fe14_dragonward:1135667070839816292>",
+        "desc": "Halve damage when adjacent ally is attacked. Trigger % = (target's Lck x 0.5)",
+        "reference": {
+            "Class": "Hoshido Noble (Lv. 5)"
+        }
+    },
+    "dualguardsman": {
+        "name": "Dual Guardsman",
+        "desc": "When paired up and in cover, grants additional Dual Guard points.",
+        "emoji": "<:fe14_dualguardsman:1135667072316211240>",
+        "reference": {}
+    },
+    "dualstriker": {
+        "name": "Dual Striker",
+        "emoji": "<:fe14_dualstriker:1135667073415127163>",
+        "desc": "When this unit is backing up another attacker, inflicts +3 damage to enemy.",
+        "reference": {
+            "Class": "Great Lord (Lv. 1)"
+        }
+    },
+    "duelistsblow": {
+        "name": "Duelist's Blow",
+        "emoji": "<:fe14_duelistsblow:1135667075684249730>",
+        "desc": "Grants Avo+30 when the unit initiates combat.",
+        "reference": {
+            "Class": "Samurai (Lv. 1)"
+        }
+    },
+    "elbowroom": {
+        "name": "Elbow Room",
+        "emoji": "<:fe14_elbowroom:1135667077043204156>",
+        "desc": "This unit deals +3 damage when fighting in a space with no terrain effects.",
+        "reference": {
+            "Class": "Cavalier (Lv. 1)"
+        }
+    },
+    "evasivepartner": {
+        "name": "Evasive Partner",
+        "emoji": "<:fe14_evasivepartner:1135743321969537044>",
+        "desc": "If supporting the main character, grants him or her Avo+15 and -3 damage taken.",
+        "reference": {
+            "Personal": "Jakob"
+        }
+    },
+    "evenbetter": {
+        "name": "Even Better",
+        "emoji": "<:fe14_evenbetter:1135667078486036550>",
+        "desc": "Restores up to 40% HP at the start of even-numbered turns.",
+        "reference": {
+            "Class": "Nine-Tails (Lv. 5)"
+        }
+    },
+    "evenhanded": {
+        "name": "Evenhanded",
+        "emoji": "<:fe14_evenhanded:1135667080558030858>",
+        "desc": "This unit deals +4 damage on even-numbered turns.",
+        "reference": {
+            "Class": "Kitsune (Lv. 1)"
+        }
+    },
+    "evenkeel": {
+        "name": "Even Keel",
+        "emoji": "<:fe14_evenkeel:1135667081904410654>",
+        "desc": "This unit receives -4 magic damage on even-numbered turns.",
+        "reference": {
+            "Class": "Dread Fighter (Lv. 1)"
+        }
+    },
+    "fancyfootwork": {
+        "name": "Fancy Footwork",
+        "emoji": "<:fe14_fancyfootwork:1135743356048244796>",
+        "desc": "Use \"Rally\" to grant Str/Spd+1 to units within two spaces for one turn.",
+        "reference": {
+            "Personal": "Laslow"
+        }
+    },
+    "fearsomeblow": {
+        "name": "Fearsome Blow",
+        "emoji": "<:fe14_fearsomeblow:1135743357931507743>",
+        "desc": "When this unit initiates an attack that KOs a foe, adjacent enemies lose 20% HP.",
+        "reference": {
+            "Personal": "Hana"
+        }
+    },
+    "fiercecounter": {
+        "name": "Fierce Counter",
+        "emoji": "<:fe14_fiercecounter:1135743359324016751>",
+        "desc": "When attacked by male enemy, grants +2 to damage dealt.",
+        "reference": {
+            "Personal": "Forrest"
+        }
+    },
+    "fiercemien": {
+        "name": "Fierce Mien",
+        "emoji": "<:fe14_fiercemien:1135743360473239612>",
+        "desc": "Enemies within two spaces have Avo-10.",
+        "reference": {
+            "Personal": "Benny"
+        }
+    },
+    "fiercerival": {
+        "name": "Fierce Rival",
+        "emoji": "<:fe14_fiercerival:1135743361865748583>",
+        "desc": "If backed-up partner lands a critical, this unit criticals as well (normal miss chance).",
+        "reference": {
+            "Personal": "Selena"
+        }
+    },
+    "fieryblood": {
+        "name": "Fiery Blood",
+        "emoji": "<:fe14_fieryblood:1135743363526697030>",
+        "desc": "This unit deals +4 damage when he or she has less than full HP.",
+        "reference": {
+            "Personal": "Rinkah"
+        }
+    },
+    "forager": {
+        "name": "Forager",
+        "emoji": "<:fe14_forager:1135743364915003473>",
+        "desc": "Heal 20% of max HP if unit starts turn in mountain, woods, waste, or field space.",
+        "reference": {
+            "Personal": "Mozu"
+        }
+    },
+    "forcefulpartner": {
+        "name": "Forceful Partner",
+        "emoji": "<:fe14_forcefulpartner:1135743366714363924>",
+        "desc": "If supporting the main character, grants him or her Hit+15 and +3 damage dealt.",
+        "reference": {
+            "Personal": "Gunter"
+        }
+    },
+    "foreignprincess": {
+        "name": "Foreign Princess",
+        "emoji": "<:fe14_foreignprincess:1135667083359825981>",
+        "desc": "Foreign Army units within two spaces take -2/+2 to damage dealt/taken.",
+        "reference": {
+            "Class": "Songstress (Lv. 35)"
+        }
+    },
+    "fortunateson": {
+        "name": "Fortunate Son",
+        "emoji": "<:fe14_fortunateson:1135743395768307842>",
+        "desc": "Allies within two spaces get Ddg+15. This unit gets Ddg+5.",
+        "reference": {
+            "Personal": "Percy"
+        }
+    },
+    "futuresight": {
+        "name": "Future Sight",
+        "emoji": "<:fe14_futuresight:1135667114938732555>",
+        "desc": "Double EXP if the unit attacks and defeats an enemy. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Diviner (Lv. 10)"
+        }
+    },
+    "galeforce": {
+        "name": "Galeforce",
+        "emoji": "<:fe14_galeforce:1135667117581156435>",
+        "desc": "If this unit initiates an unsupported attack and defeats the foe, take another turn.",
+        "reference": {
+            "Class": "Dark Falcon (Lv. 35)"
+        }
+    },
+    "gallant": {
+        "name": "Gallant",
+        "emoji": "<:fe14_gallant:1135743398087757874>",
+        "desc": "When supporting a female ally, she deals +2 damage.",
+        "reference": {
+            "Personal": "Siegbert"
+        }
+    },
+    "gamble": {
+        "name": "Gamble",
+        "emoji": "<:fe14_gamble:1135667118843629668>",
+        "desc": "Causes Hit-10, but grants Crit+10.",
+        "reference": {
+            "Class": "Fighter (Lv. 10)"
+        }
+    },
+    "gentilhomme": {
+        "name": "Gentilhomme",
+        "emoji": "<:fe14_gentilhomme:1135667120143859762>",
+        "desc": "Female allies within two spaces receive -2 damage in combat.",
+        "reference": {
+            "Class": "Troubadour (Lv. 10)"
+        }
+    },
+    "golembane": {
+        "name": "Golembane",
+        "emoji": "<:fe14_golembane:1135667122043887666>",
+        "desc": "Enables unit to deal bonus damage to mechanists, automatons, and stoneborn.",
+        "reference": {
+            "Class": "Mechanist (Lv. 5)"
+        }
+    },
+    "goodfortune": {
+        "name": "Good Fortune",
+        "emoji": "<:fe14_goodfortune:1135667123478352074>",
+        "desc": "Restores up to 20% HP at the start of each turn. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Mercenary (Lv. 1)"
+        }
+    },
+    "goodybasket": {
+        "name": "Goody Basket",
+        "emoji": "<:fe14_goodybasket:1135743399182467092>",
+        "desc": "Recover 10 HP at the start of each turn. Trigger % = (Lck stat)",
+        "reference": {
+            "Personal": "Velouria"
+        }
+    },
+    "grislywound": {
+        "name": "Grisly Wound",
+        "emoji": "<:fe14_grislywound:1135667125516771328>",
+        "desc": "Enemies lose up to 20% HP after any combat with this unit.",
+        "reference": {
+            "Class": "Nine-Tails (Lv. 15)\nWolfssegner (Lv. 15)"
+        }
+    },
+    "guardedbravery": {
+        "name": "Guarded Bravery",
+        "emoji": "<:fe14_guardedbravery:1135743400717590559>",
+        "desc": "When supported, grants -2 damage taken. If unsupported, inflicts +2 damage taken.",
+        "reference": {
+            "Personal": "Ignatius"
+        }
+    },
+    "haiku": {
+        "name": "Haiku",
+        "emoji": "<:fe14_haiku:1135743402646982766>",
+        "desc": "If unit starts a turn between two allies in a vertical line, they recover 5, 7, and 5 HP.",
+        "reference": {
+            "Personal": "Mitama"
+        }
+    },
+    "healingdescant": {
+        "name": "Healing Descant",
+        "emoji": "<:fe14_healingdescant:1135743404031098980>",
+        "desc": "Allies within two spaces heal up to 10% HP at the start of their turn.",
+        "reference": {
+            "Personal": "Azura"
+        }
+    },
+    "heartseeker": {
+        "name": "Heartseeker",
+        "emoji": "<:fe14_heartseeker:1135667128159174848>",
+        "desc": "Adjacent enemies suffer -20 Avo.",
+        "reference": {
+            "Class": "Dark Mage (Lv. 1)"
+        }
+    },
+    "heavyblade": {
+        "name": "Heavy Blade",
+        "emoji": "<:fe14_heavyblade:1135667129543311542>",
+        "desc": "This unsubtle fighting style grants Str+3 but Spd-1.",
+        "reference": {
+            "Class": "Vanguard (Lv. 1)"
+        }
+    },
+    "highwayman": {
+        "name": "Highwayman",
+        "emoji": "<:fe14_highwayman:1135743405150982174>",
+        "desc": "After attacking a foe who can't fight back, target gets Str/Spd-3 (recovers 1/turn).",
+        "reference": {
+            "Personal": "Shura"
+        }
+    },
+    "hoshidanunity": {
+        "name": "Hoshidan Unity",
+        "emoji": "<:fe14_hoshidanunity:1135667132265402470>",
+        "desc": "Increases the trigger rate of this unit's skills by 10%.",
+        "reference": {
+            "Class": "Hoshido Noble (Lv. 15)"
+        }
+    },
+    "hp5": {
+        "name": "HP +5",
+        "emoji": "<:fe14_hpplus5:1152880804800761956>",
+        "desc": "Grants +5 to max HP.",
+        "reference": {
+            "Class": "Fighter (Lv. 1)"
+        }
+    },
+    "icyblood": {
+        "name": "Icy Blood",
+        "emoji": "<:fe14_icyblood:1135743406916780083>",
+        "desc": "If hurt and attacked by nonadjacent foe, attacker takes half dmg and Skill/Spd -3.",
+        "reference": {
+            "Personal": "Flora"
+        }
+    },
+    "ignis": {
+        "name": "Ignis",
+        "emoji": "<:fe14_ignis:1152880807015366737>",
+        "desc": "Add half Mag or Str to the other value when attacking. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "Grandmaster (Lv. 25)"
+        }
+    },
+    "inextremis": {
+        "name": "In Extremis",
+        "emoji": "<:fe14_inextremis:1135743438764113982>",
+        "desc": "Grants Crit+30 when this unit has 25% HP or less.",
+        "reference": {
+            "Personal": "Scarlet"
+        }
+    },
+    "inspiration": {
+        "name": "Inspiration",
+        "emoji": "<:fe14_inspiration:1135667227958452355>",
+        "desc": "Allies within two spaces get +2 to damage dealt and -2 to damage received.",
+        "reference": {
+            "Class": "Strategist (Lv. 15)"
+        }
+    },
+    "inspiringsong": {
+        "name": "Inspiring Song",
+        "emoji": "<:fe14_inspiringsong:1135667229808132226>",
+        "desc": "Use \"Sing\" to grant an ally Skill/Spd/Lck+3 for one turn.",
+        "reference": {
+            "Class": "Songstress (Lv. 10)"
+        }
+    },
+    "ironwill": {
+        "name": "Iron Will",
+        "emoji": "<:fe14_ironwill:1135667231141941258>",
+        "desc": "This unit receives -4 magic damage when an enemy initiates the attack.",
+        "reference": {
+            "Class": "Dread Fighter (Lv. 10)"
+        }
+    },
+    "kidnap": {
+        "name": "Kidnap",
+        "emoji": "<:fe14_kidnap:1135743440987099187>",
+        "desc": "Grants Capture command if the castle has a prison. Imprisons defeated foes.",
+        "reference": {
+            "Personal": "Niles"
+        }
+    },
+    "lancebreaker": {
+        "name": "Lancebreaker",
+        "emoji": "<:fe14_lancebreaker:1152880835536629760>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using a lance/naginata.",
+        "reference": {
+            "Class": "Blacksmith (Lv. 15)"
+        }
+    },
+    "lancefaire": {
+        "name": "Lancefaire",
+        "emoji": "<:fe14_lancefaire:1152880867476246579>",
+        "desc": "+5 damage dealt if using a lance/naginata.",
+        "reference": {
+            "Class": "Spear Master (Lv. 15)"
+        }
+    },
+    "lethality": {
+        "name": "Lethality",
+        "emoji": "<:fe14_lethality:1152880869678268507>",
+        "desc": "Fell an enemy in one hit (the hit must do damage). Trigger % = (Skill stat \u00d7 0.25)",
+        "reference": {
+            "Class": "Master Ninja (Lv. 5)"
+        }
+    },
+    "lifeanddeath": {
+        "name": "Life and Death",
+        "emoji": "<:fe14_lifeanddeath:1135667254638415924>",
+        "desc": "During combat, +10 to damage dealt and taken.",
+        "reference": {
+            "Class": "Master of Arms (Lv. 15)"
+        }
+    },
+    "lifetaker": {
+        "name": "Lifetaker",
+        "emoji": "<:fe14_lifetaker:1135667255905103982>",
+        "desc": "Restores up to 50% HP if this unit initiates an attack and defeats the enemy.",
+        "reference": {
+            "Class": "Dark Knight (Lv. 15)"
+        }
+    },
+    "lilyspoise": {
+        "name": "Lily's Poise",
+        "emoji": "<:fe14_lilyspoise:1135743442681593888>",
+        "desc": "Grants adjacent allies +1 to damage dealt and -3 to damage taken.",
+        "reference": {
+            "Personal": "Elise"
+        }
+    },
+    "livetoserve": {
+        "name": "Live to Serve",
+        "emoji": "<:fe14_livetoserve:1135667257356341368>",
+        "desc": "When healing an ally with a staff, this unit recovers the same amount of HP.",
+        "reference": {
+            "Class": "Butler (Lv. 5)\nMaid (Lv. 5)"
+        }
+    },
+    "locktouch": {
+        "name": "Locktouch",
+        "emoji": "<:fe14_locktouch:1152880903916359690>",
+        "desc": "Allows the unit to open doors and chests without keys.",
+        "reference": {
+            "Class": "Ninja (Lv. 1)\nOutlaw (Lv. 1)"
+        }
+    },
+    "luck4": {
+        "name": "Luck +4",
+        "emoji": "<:fe14_luckplus4:1152880910509809735>",
+        "desc": "Grants Lck+4.",
+        "reference": {
+            "Class": "Songstress (Lv. 1)"
+        }
+    },
+    "luckycharm": {
+        "name": "Lucky Charm",
+        "emoji": "<:fe14_luckycharm:1135743445022015608>",
+        "desc": "Grants +20% to the trigger rate for all this unit's Lck-based skills.",
+        "reference": {
+            "Personal": "Midori"
+        }
+    },
+    "luckyseven": {
+        "name": "Lucky Seven",
+        "emoji": "<:fe14_luckyseven:1152881043062407178>",
+        "desc": "Grants Hit/Avo+20 for the first seven turns.",
+        "reference": {
+            "Class": "Adventurer (Lv. 5)"
+        }
+    },
+    "luna": {
+        "name": "Luna",
+        "emoji": "<:fe14_luna:1135667266546040892>",
+        "desc": "Ignore half of enemy Def/Res when attacking. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "Great Knight (Lv. 5)"
+        }
+    },
+    "lunge": {
+        "name": "Lunge",
+        "emoji": "<:fe14_lunge:1135667268588666920>",
+        "desc": "Grants use of Lunge command. After attacking, switches position with target.",
+        "reference": {
+            "Class": "Wyvern Rider (Lv. 10)"
+        }
+    },
+    "magic2": {
+        "name": "Magic +2",
+        "emoji": "<:fe14_magicplus2:1152881087526215750>",
+        "desc": "Grants Mag+2.",
+        "reference": {
+            "Class": "Diviner (Lv. 1)"
+        }
+    },
+    "makeakilling": {
+        "name": "Make a Killing",
+        "emoji": "<:fe14_makeakilling:1135743446326444122>",
+        "desc": "Obtain gold when this unit attacks and defeats a foe. Trigger % = (Lck stat)",
+        "reference": {
+            "Personal": "Anna"
+        }
+    },
+    "maleficaura": {
+        "name": "Malefic Aura",
+        "emoji": "<:fe14_maleficaura:1135667302382186567>",
+        "desc": "Enemies within two spaces take +2 damage when hit by a magic attack.",
+        "reference": {
+            "Class": "Dark Mage (Lv. 10)"
+        }
+    },
+    "miracle": {
+        "name": "Miracle",
+        "emoji": "<:fe14_miracle:1152881111718957117>",
+        "desc": "If HP > 1, survive a lethal attack with 1 HP remaining. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Monk (Lv. 1)\nShrine Maiden (Lv. 1)"
+        }
+    },
+    "miraculoussave": {
+        "name": "Miraculous Save",
+        "emoji": "<:fe14_miraculoussave:1135743447593132142>",
+        "desc": "Save supported unit from lethal attack if HP > 1. Trigger % = (target's Lck stat)",
+        "reference": {
+            "Personal": "Kaze"
+        }
+    },
+    "mischievous": {
+        "name": "Mischievous",
+        "emoji": "<:fe14_mischievous:1135743449530908854>",
+        "desc": "After combat this unit initiates, foe suffers Def-3 and may lose his or her clothing.",
+        "reference": {
+            "Personal": "Sophie"
+        }
+    },
+    "misfortunate": {
+        "name": "Misfortunate",
+        "emoji": "<:fe14_misfortunate:1135743450696925194>",
+        "desc": "Enemies within two spaces get Ddg-15. This unit gets Ddg-5, however.",
+        "reference": {
+            "Personal": "Arthur"
+        }
+    },
+    "morbidcelebration": {
+        "name": "Morbid Celebration",
+        "emoji": "<:fe14_morbidcelebration:1135743480535203892>",
+        "desc": "This unit recovers up to 20% HP when he or she attacks and defeats an enemy.",
+        "reference": {
+            "Personal": "Reina"
+        }
+    },
+    "movement1": {
+        "name": "Movement +1",
+        "emoji": "<:fe14_movementplus1:1152881117419020390>",
+        "desc": "Grants Mov+1.",
+        "reference": {
+            "Class": "Outlaw (Lv. 10)"
+        }
+    },
+    "naturalcover": {
+        "name": "Natural Cover",
+        "emoji": "<:fe14_naturalcover:1135667307121758389>",
+        "desc": "This unit takes -3 damage when fighting in a space with a terrain effect.",
+        "reference": {
+            "Class": "Knight (Lv. 10)"
+        }
+    },
+    "nobility": {
+        "name": "Nobility",
+        "emoji": "<:fe14_nobility:1135667308820443288>",
+        "desc": "Grants this unit a 20% bonus to EXP.",
+        "reference": {
+            "Class": "Nohr Prince(ss) (Lv. 1)"
+        }
+    },
+    "noblecause": {
+        "name": "Noble Cause",
+        "emoji": "<:fe14_noblecause:1135743484360405052>",
+        "desc": "When supported by a damaged unit, grants +3 damage dealt but +1 damage taken.",
+        "reference": {
+            "Personal": "Shiro"
+        }
+    },
+    "nohrenmity": {
+        "name": "Nohr Enmity",
+        "emoji": "<:fe14_nohrenmity:1135743486436581376>",
+        "desc": "This unit deals +3 damage to Nohrian enemies.",
+        "reference": {
+            "Personal": "Oboro"
+        }
+    },
+    "nohriantrust": {
+        "name": "Nohrian Trust",
+        "emoji": "<:fe14_nohriantrust:1135667310863073310>",
+        "desc": "This unit can use a supporting unit's triggered skills in combat.",
+        "reference": {
+            "Class": "Nohr Noble (Lv. 15)"
+        }
+    },
+    "oddshaped": {
+        "name": "Odd Shaped",
+        "emoji": "<:fe14_oddshaped:1135667312364630046>",
+        "desc": "This unit deals +4 damage on odd-numbered turns.",
+        "reference": {
+            "Class": "Wolfskin (Lv. 1)"
+        }
+    },
+    "opportunist": {
+        "name": "Opportunist",
+        "emoji": "<:fe14_opportunist:1135743488349188126>",
+        "desc": "When attacking a foe who can't fight back, this unit inflicts +4 damage.",
+        "reference": {
+            "Personal": "Beruka"
+        }
+    },
+    "opportunityshot": {
+        "name": "Opportunity Shot",
+        "emoji": "<:fe14_opportunityshot:1135667314545655939>",
+        "desc": "If unit is a Ballistician, automatically attack 1 enemy in range. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "Ballistician (Lv. 10)"
+        }
+    },
+    
+    "optimistic": {
+        "name": "Optimistic",
+        "emoji": "<:fe14_optimistic:1135743490748334271>",
+        "desc": "This unit recovers 150% the usual HP when healed by a staff.",
+        "reference": {
+            "Personal": "Setsuna"
+        }
+    },
+    "optimist": {
+        "name": "Optimist",
+        "emoji": "<:fe14_optimist:1135743489385181255>",
+        "desc": "Use \"Wait\" to gain Spd+4 and Lck+8 for one turn..",
+        "reference": {
+            "Personal": "Kiragi"
+        }
+    },
+    "pass": {
+        "name": "Pass",
+        "emoji": "<:fe14_pass:1152881155159363684>",
+        "desc": "Allows the unit to pass through spaces occupied by enemies.",
+        "reference": {
+            "Class": "Adventurer (Lv. 15)"
+        }
+    },
+    "pavise": {
+        "name": "Pavise",
+        "emoji": "<:fe14_pavise:1152881156442832956>",
+        "desc": "Halve sword/lance/axe/beaststone/fist/saw damage. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "General (Lv. 15)"
+        }
+    },
+    "peacebringer": {
+        "name": "Peacebringer",
+        "emoji": "<:fe14_peacebringer:1135743498004480052>",
+        "desc": "All enemies and allies within two spaces deal -2 damage.",
+        "reference": {
+            "Personal": "Izana"
+        }
+    },
+    "perfectionist": {
+        "name": "Perfectionist",
+        "emoji": "<:fe14_perfectionist:1135743499954831461>",
+        "desc": "Grants Hit/Avo+15 when this unit is at full HP.",
+        "reference": {
+            "Personal": "Subaki"
+        }
+    },
+    "perfectpitch": {
+        "name": "Perfect Pitch",
+        "emoji": "<:fe14_perfectpitch:1135743563817287730>",
+        "desc": "Use \"Rally\" to heal lower-HP allies within two spaces for 10% of their HP total.",
+        "reference": {
+            "Personal": "Shigure"
+        }
+    },
+    "perspicacious": {
+        "name": "Perspicacious",
+        "emoji": "<:fe14_perspicacious:1135743565159469188>",
+        "desc": "Grants Hit+5 to all allies.",
+        "reference": {
+            "Personal": "Yukimura"
+        }
+    },
+    "playthings": {
+        "name": "Playthings",
+        "emoji": "<:fe14_playthings:1135743617592459305>",
+        "desc": "Adjacent enemies lose 5 HP at start of each of this unit's turns.",
+        "reference": {
+            "Personal": "Selkie"
+        }
+    },
+    "poisonstrike": {
+        "name": "Poison Strike",
+        "emoji": "<:fe14_poisonstrike:1135667343108878408>",
+        "desc": "Enemies lose up to 20% HP after any combat this unit initiates.",
+        "reference": {
+            "Class": "Ninja (Lv. 10)"
+        }
+    },
+    "potentpotion": {
+        "name": "Potent Potion",
+        "emoji": "<:fe14_potentpotion:1135667344627212400>",
+        "desc": "Makes most HP-recovery and stat- boosting items 150% as potent.",
+        "reference": {
+            "Class": "Apothecary (Lv. 1)"
+        }
+    },
+    "pragmatic": {
+        "name": "Pragmatic",
+        "emoji": "<:fe14_pragmatic:1135743619513450557>",
+        "desc": "Grants +3 to damage dealt and -1 to damage taken against injured foes.",
+        "reference": {
+            "Personal": "Leo"
+        }
+    },
+    "pride": {
+        "name": "Pride",
+        "emoji": "<:fe14_pride:1135743638303936642>",
+        "desc": "Unit deals +4 damage to foes of equal or higher level. (Adv. classes add +20.)",
+        "reference": {
+            "Personal": "Hayato"
+        }
+    },
+    "prodigy": {
+        "name": "Prodigy",
+        "emoji": "<:fe14_prodigy:1135743640426254448>",
+        "desc": "Deals +4 dmg to foes with Str/Mag > this unit's Str or Mag (whichever is higher).",
+        "reference": {
+            "Personal": "Caeldori"
+        }
+    },
+    "profiteer": {
+        "name": "Profiteer",
+        "emoji": "<:fe14_profiteer:1135667351572988055>",
+        "desc": "Get a gold bar on each of unit's first 7 turns. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Merchant (Lv. 5)"
+        }
+    },
+    "puissance": {
+        "name": "Puissance",
+        "emoji": "<:fe14_puissance:1135743641848127528>",
+        "desc": "This unit inflicts +3 damage if her Str is at least 5 higher than the target's.",
+        "reference": {
+            "Personal": "Effie"
+        }
+    },
+    "pyrotechnics": {
+        "name": "Pyrotechnics",
+        "emoji": "<:fe14_pyrotechnics:1135743643681050624>",
+        "desc": "If unit's HP=50% or less and attacks, he and foes within two spaces lose 20% HP.",
+        "reference": {
+            "Personal": "Saizo"
+        }
+    },
+    "quickdraw": {
+        "name": "Quick Draw",
+        "emoji": "<:fe14_quickdraw:1135667354731282583>",
+        "desc": "This unit deals +4 damage when initiating combat.",
+        "reference": {
+            "Class": "Archer (Lv. 10)"
+        }
+    },
+    "quicksalve": {
+        "name": "Quick Salve",
+        "emoji": "<:fe14_quicksalve:1135667356081856513>",
+        "desc": "Can take another action after using a recovery item or tonic.",
+        "reference": {
+            "Class": "Apothecary (Lv. 10)"
+        }
+    },
+    "quietstrength": {
+        "name": "Quiet Strength",
+        "emoji": "<:fe14_quietstrength:1135743646017261608>",
+        "desc": "Allies within two spaces take -2 damage.",
+        "reference": {
+            "Personal": "Sakura"
+        }
+    },
+    "quixotic": {
+        "name": "Quixotic",
+        "emoji": "<:fe14_quixotic:1135667358246117516>",
+        "desc": "Grants Hit+30 and +15% to skill-trigger rate to this unit and enemy in combat.",
+        "reference": {
+            "Class": "Basara (Lv. 15)"
+        }
+    },
+    "rallydefense": {
+        "name": "Rally Defense",
+        "emoji": "<:fe14_rallydefense:1135667383525195866>",
+        "desc": "Use \"Rally\" to grant Def+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Wyvern Lord (Lv. 5)"
+        }
+    },
+    "rallyingcry": {
+        "name": "Rallying Cry",
+        "emoji": "<:fe14_rallyingcry:1135743647225221242>",
+        "desc": "Allies within two spaces deal +2 damage.",
+        "reference": {
+            "Personal": "Hinoka"
+        }
+    },
+    "rallyluck": {
+        "name": "Rally Luck",
+        "emoji": "<:fe14_rallyluck:1152881194606796842>",
+        "desc": "Use \"Rally\" to grant Lck+8 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Monk (Lv. 10)\nShrine Maiden (Lv. 10)"
+        }
+    },
+    "rallymagic": {
+        "name": "Rally Magic",
+        "emoji": "<:fe14_rallymagic:1152881201049243719>",
+        "desc": "Use \"Rally\" to grant Mag+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Onmyoji (Lv. 5)"
+        }
+    },
+    "rallymovement": {
+        "name": "Rally Movement",
+        "emoji": "<:fe14_rallymovement:1135667388755480746>",
+        "desc": "Use \"Rally\" to grant Mov+1 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Dark Falcon (Lv. 25)"
+        }
+    },
+    "rallyresistance": {
+        "name": "Rally Resistance",
+        "emoji": "<:fe14_rallyresistance:1135667390705832006>",
+        "desc": "Use \"Rally\" to grant Res+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Strategist (Lv. 5)"
+        }
+    },
+    "rallyskill": {
+        "name": "Rally Skill",
+        "emoji": "<:fe14_rallyskill:1135667391951548498>",
+        "desc": "Use \"Rally\" to grant Skill+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Bow Knight (Lv. 5)"
+        }
+    },
+    "rallyspectrum": {
+        "name": "Rally Spectrum",
+        "emoji": "<:fe14_rallyspectrum:1152881232292630599>",
+        "desc": "Use \"Rally\" to grant +2 to all stats to allies within four spaces for one turn.",
+        "reference": {
+            "Class": "Grandmaster (Lv. 35)"
+        }
+    },
+    "rallyspeed": {
+        "name": "Rally Speed",
+        "emoji": "<:fe14_rallyspeed:1152881235291537461>",
+        "desc": "Use \"Rally\" to grant Spd+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Falcon Knight (Lv. 5)\nPegasus Knight (Lv. 25)"
+        }
+    },
+    "rallystrength": {
+        "name": "Rally Strength",
+        "emoji": "<:fe14_rallystrength:1135667399190913117>",
+        "desc": "Use \"Rally\" to grant Str+4 to units within two spaces for one turn.",
+        "reference": {
+            "Class": "Berserker (Lv. 5)"
+        }
+    },
+    "reciprocity": {
+        "name": "Reciprocity",
+        "emoji": "<:fe14_reciprocity:1135743649100091412>",
+        "desc": "When this unit is healed by a staff, the staff user also recovers half the same amount.",
+        "reference": {
+            "Personal": "Kaden"
+        }
+    },
+    "relief": {
+        "name": "Relief",
+        "emoji": "<:fe14_relief:1135667400658911333>",
+        "desc": "Restores up to 20% HP each turn if no units are within two spaces.",
+        "reference": {
+            "Class": "Dark Falcon (Lv. 10)\nPegasus Knight (Lv. 10)"
+        }
+    },
+    "rendheaven": {
+        "name": "Rend Heaven",
+        "emoji": "<:fe14_rendheaven:1135667467646144522>",
+        "desc": "Deal half foe's Str or Mag as bonus damage. Trigger % = (Skill stat \u00d7 1.5)",
+        "reference": {
+            "Class": "Basara (Lv. 5)"
+        }
+    },
+    "renewal": {
+        "name": "Renewal",
+        "emoji": "<:fe14_renewal:1135667469919465615>",
+        "desc": "Restores up to 30% HP at the start of each turn.",
+        "reference": {
+            "Class": "Great Master (Lv. 5)\nPriestess (Lv. 5)"
+        }
+    },
+    "replicate": {
+        "name": "Replicate",
+        "emoji": "<:fe14_replicate:1135667471370698802>",
+        "desc": "Grants use of Replicate command. Use once per battle to create a replica.",
+        "reference": {
+            "Class": "Mechanist (Lv. 15)"
+        }
+    },
+    "resistance2": {
+        "name": "Resistance +2",
+        "emoji": "<:fe14_resistanceplus2:1152881524480421898>",
+        "desc": "Grants Res+2.",
+        "reference": {
+            "Class": "Troubadour (Lv. 1)"
+        }
+    },
+    "rifledbarrel": {
+        "name": "Rifled Barrel",
+        "emoji": "<:fe14_rifledbarrel:1135667479310503956>",
+        "desc": "When using \"Cannon\" command, can target adjacent spaces and affect a larger area.",
+        "reference": {
+            "Class": "Ballistician (Lv. 25)"
+        }
+    },
+    "rosesthorns": {
+        "name": "Rose's Thorns",
+        "emoji": "<:fe14_rosesthorns:1135743650425479270>",
+        "desc": "Grants adjacent allies +3 to damage dealt and -1 to damage taken.",
+        "reference": {
+            "Personal": "Camilla"
+        }
+    },
+    "salvageblow": {
+        "name": "Salvage Blow",
+        "emoji": "<:fe14_salvageblow:1135667480468131840>",
+        "desc": "Receive a basic weapon when attacking and defeating foe. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Blacksmith (Lv. 5)"
+        }
+    },
+    "savageblow": {
+        "name": "Savage Blow",
+        "emoji": "<:fe14_savageblow:1135667481646727198>",
+        "desc": "Foes within two spaces lose up to 20% HP after any combat this unit initiates.",
+        "reference": {
+            "Class": "Malig Knight (Lv. 5)"
+        }
+    },
+    "sealdefense": {
+        "name": "Seal Defense",
+        "emoji": "<:fe14_sealdefense:1135667483957792808>",
+        "desc": "After combat, reduces enemy Def by 6 (recovers 1/turn).",
+        "reference": {
+            "Class": "Spear Fighter (Lv. 1)"
+        }
+    },
+    "sealmagic": {
+        "name": "Seal Magic",
+        "emoji": "<:fe14_sealmagic:1135667496419086346>",
+        "desc": "After combat, reduces enemy Mag by 6 (recovers 1/turn).",
+        "reference": {
+            "Class": "Dark Knight (Lv. 5)"
+        }
+    },
+    "sealresistance": {
+        "name": "Seal Resistance",
+        "emoji": "<:fe14_sealresistance:1135667498323283999>",
+        "desc": "After combat, reduces enemy Res by 6 (recovers 1/turn).",
+        "reference": {
+            "Class": "Oni Savage (Lv. 1)"
+        }
+    },
+    "sealspeed": {
+        "name": "Seal Speed",
+        "emoji": "<:fe14_sealspeed:1135667501204775143>",
+        "desc": "After combat, reduces enemy Spd by 6 (recovers 1/turn).",
+        "reference": {
+            "Class": "Spear Master (Lv. 5)"
+        }
+    },
+    "sealstrength": {
+        "name": "Seal Strength",
+        "emoji": "<:fe14_sealstrength:1135667503780073696>",
+        "desc": "After combat, reduces enemy Str by 6 (recovers 1/turn).",
+        "reference": {
+            "Class": "Master of Arms (Lv. 5)"
+        }
+    },
+    "shadowgift": {
+        "name": "Shadowgift",
+        "emoji": "<:fe14_shadowgift:1152881559532220488>",
+        "desc": "Enables non-dark mages to use dark magic.",
+        "reference": {
+            "Class": "Witch (Lv. 1)"
+        }
+    },
+    "shelter": {
+        "name": "Shelter",
+        "emoji": "<:fe14_shelter:1135667508934869132>",
+        "desc": "Grants use of the Shelter command. Use to pull another player unit into cover.",
+        "reference": {
+            "Class": "Cavalier (Lv. 10)"
+        }
+    },
+    "shove": {
+        "name": "Shove",
+        "emoji": "<:fe14_shove:1135667510134452275>",
+        "desc": "Grants use of the Shove command. Use to push an adjacent ally away one space.",
+        "reference": {
+            "Class": "Oni Savage (Lv. 10)"
+        }
+    },
+    "shurikenbreaker": {
+        "name": "Shurikenbreaker",
+        "emoji": "<:fe14_shurikenbreaker:1135667540266336347>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using a shuriken/dagger.",
+        "reference": {
+            "Class": "Bow Knight (Lv. 15)"
+        }
+    },
+    "shurikenfaire": {
+        "name": "Shurikenfaire",
+        "emoji": "<:fe14_shurikenfaire:1135667513078857788>",
+        "desc": "+5 damage dealt if using a shuriken/dagger.",
+        "reference": {
+            "Class": "Master Ninja (Lv. 15)"
+        }
+    },
+    "shurikenmastery": {
+        "name": "Shuriken Mastery",
+        "emoji": "<:fe14_shurikenmastery:1135743685087211541>",
+        "desc": "If unit is hit by a shuriken, attacker also takes status effects and half the damage.",
+        "reference": {
+            "Personal": "Kagero"
+        }
+    },
+    "sisterhood": {
+        "name": "Sisterhood",
+        "emoji": "<:fe14_sisterhood:1135743690346868818>",
+        "desc": "Deals +2 damage and takes -2 damage when supported by a female ally.",
+        "reference": {
+            "Personal": "Soleil"
+        }
+    },
+    "skill2": {
+        "name": "Skill +2",
+        "emoji": "<:fe14_skillplus2:1152881581128699914>",
+        "desc": "Grants Skill+2.",
+        "reference": {
+            "Class": "Archer (Lv. 1)"
+        }
+    },
+    "sol": {
+        "name": "Sol",
+        "emoji": "<:fe14_sol:1152881629522579540>",
+        "desc": "Absorb HP equal to half of damage dealt. Trigger % = (Skill stat)",
+        "reference": {
+            "Class": "Hero (Lv. 5)"
+        }
+    },
+    "solidarity": {
+        "name": "Solidarity",
+        "emoji": "<:fe14_solidarity:1152881715371589693>",
+        "desc": "Grants Crit/Ddg+10 to adjacent allies in combat.",
+        "reference": {
+            "Class": "Grandmaster (Lv. 10)"
+        }
+    },
+    "speed2": {
+        "name": "Speed +2",
+        "emoji": "<:fe14_speedplus2:1135667567730634872>",
+        "desc": "Grants Spd+2.",
+        "reference": {
+            "Class": "Dark Falcon (Lv. 1)\nPegasus Knight (Lv. 1)"
+        }
+    },
+    "speedtaker": {
+        "name": "Speedtaker",
+        "emoji": "<:fe14_speedtaker:1135667568544317533>",
+        "desc": "Spd+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "reference": {
+            "Class": "Lodestar (Lv. 35)"
+        }
+    },
+    "spendthrift": {
+        "name": "Spendthrift",
+        "emoji": "<:fe14_spendthrift:1135667570247209012>",
+        "desc": "When attacking, unit expends a held gold bar for +10/-10 to damage dealt/taken.",
+        "reference": {
+            "Class": "Merchant (Lv. 15)"
+        }
+    },
+    "strength2": {
+        "name": "Strength +2",
+        "emoji": "<:fe14_strengthplus2:1152881793553416202>",
+        "desc": "Grants Str+2.",
+        "reference": {
+            "Class": "Wyvern Rider (Lv. 1)"
+        }
+    },
+    "strengthtaker": {
+        "name": "Strengthtaker",
+        "emoji": "<:fe14_strengthtaker:1135667577444642836>",
+        "desc": "Str+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "reference": {
+            "Class": "Vanguard (Lv. 35)"
+        }
+    },
+    "strongriposte": {
+        "name": "Strong Riposte",
+        "emoji": "<:fe14_strongriposte:1135667609027756103>",
+        "desc": "This unit deals +3 damage when counterattacking.",
+        "reference": {
+            "Class": "Mercenary (Lv. 10)"
+        }
+    },
+    "supportive": {
+        "name": "Supportive",
+        "emoji": "<:fe14_supportive:1135743691936497695>",
+        "desc": "If paired with a support C+ attacker, grants Hit+10, +2 dmg dealt, and -2 dmg taken.",
+        "reference": {
+            "Personal": "Corrin"
+        }
+    },
+    "surefooted": {
+        "name": "Surefooted",
+        "emoji": "<:fe14_surefooted:1135667611263320084>",
+        "desc": "If unit is a Ballistician, grants Mov +1 and move cost of all passable terrain is 1.",
+        "reference": {
+            "Class": "Ballistician (Lv. 35)"
+        }
+    },
+    "survey": {
+        "name": "Survey",
+        "emoji": "<:fe14_survey:1135667612655829135>",
+        "desc": "Grants Hit +10 when using \"Cannon\" command.",
+        "reference": {
+            "Class": "Ballistician (Lv. 1)"
+        }
+    },
+    "swap": {
+        "name": "Swap",
+        "emoji": "<:fe14_swap:1135667614010589335>",
+        "desc": "Grants use of Swap command. Use to switch spaces with an adjacent ally.",
+        "reference": {
+            "Class": "Spear Fighter (Lv. 10)"
+        }
+    },
+    "sweettooth": {
+        "name": "Sweet Tooth",
+        "emoji": "<:fe14_sweettooth:1135743693769416725>",
+        "desc": "Use \"Wait\" to recover 4 HP as this unit raids a hidden sweets pouch.",
+        "reference": {
+            "Personal": "Asugi"
+        }
+    },
+    "swordbreaker": {
+        "name": "Swordbreaker",
+        "emoji": "<:fe14_swordbreaker:1135667616208408677>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using a sword/katana.",
+        "reference": {
+            "Class": "Wyvern Lord (Lv. 15)"
+        }
+    },
+    "swordfaire": {
+        "name": "Swordfaire",
+        "emoji": "<:fe14_swordfaire:1152881818899595274>",
+        "desc": "+5 damage dealt if using a sword/katana.",
+        "reference": {
+            "Class": "Swordmaster (Lv. 15)"
+        }
+    },
+    "tacticaladvice": {
+        "name": "Tactical Advice",
+        "emoji": "<:fe14_tacticalguide:1135667621413527563>",
+        "desc": "Grants Hit+10 to attacking ally when this unit is supporting.",
+        "reference": {
+            "Class": "Grandmaster (Lv. 1)"
+        }
+    },
+    "tomebreaker": {
+        "name": "Tomebreaker",
+        "emoji": "<:fe14_tomebreaker:1135667622810243234>",
+        "desc": "Grants Hit/Avo+50 if the enemy is using a tome/scroll.",
+        "reference": {
+            "Class": "Butler (Lv. 15)\nMaid (Lv. 15)"
+        }
+    },
+    "tomefaire": {
+        "name": "Tomefaire",
+        "emoji": "<:fe14_tomefaire:1152881833952956436>",
+        "desc": "+5 damage dealt if using a tome/scroll.",
+        "reference": {
+            "Class": "Onmyoji (Lv. 15)"
+        }
+    },
+    "toxicbrew": {
+        "name": "Toxic Brew",
+        "emoji": "<:fe14_toxicbrew:1135667627260387471>",
+        "desc": "Foes this unit attacks get Move 0, Avo-20 for 1 turn. Trigger % = (Skill stat \u00d7 1.5)",
+        "reference": {
+            "Class": "Witch (Lv. 35)"
+        }
+    },
+    "trample": {
+        "name": "Trample",
+        "emoji": "<:fe14_trample:1135667656784097372>",
+        "desc": "+5 damage dealt to nonmounted enemies.",
+        "reference": {
+            "Class": "Malig Knight (Lv. 15)"
+        }
+    },
+    "triplethreat": {
+        "name": "Triple Threat",
+        "emoji": "<:fe14_triplethreat:1135743695673630851>",
+        "desc": "If a sword, lance, or axe hit drops HP to 50% or less, foe suffers half the damage.",
+        "reference": {
+            "Personal": "Hinata"
+        }
+    },
+    "underdog": {
+        "name": "Underdog",
+        "emoji": "<:fe14_underdog:1135667659703332944>",
+        "desc": "Hit/Avo+15 if a foe's level is higher. (For adv. classes, add +20 to level.)",
+        "reference": {
+            "Class": "Villager (Lv. 10)"
+        }
+    },
+    "unmask": {
+        "name": "Unmask",
+        "emoji": "<:fe14_unmask:1135743698135687178>",
+        "desc": "Grants +4 to damage dealt and Crit+20 if enemy is female.",
+        "reference": {
+            "Personal": "Charlotte"
+        }
+    },
+    "vantage": {
+        "name": "Vantage",
+        "emoji": "<:fe14_vantage:1152881862730059858>",
+        "desc": "At start of combat, if HP=50% or less, always strike first, even when attacked.",
+        "reference": {
+            "Class": "Samurai (Lv. 10)"
+        }
+    },
+    "vendetta": {
+        "name": "Vendetta",
+        "emoji": "<:fe14_vendetta:1135743699272335420>",
+        "desc": "If attacking an enemy this unit previously fought in this battle, +4 to damage dealt.",
+        "reference": {
+            "Personal": "Rhajat"
+        }
+    },
+    "vengeance": {
+        "name": "Vengeance",
+        "emoji": "<:fe14_vengeance:1152881924281475122>",
+        "desc": "Add half accrued damage to attacks. Trigger % = (Skill stat \u00d7 1.5)",
+        "reference": {
+            "Class": "Sorcerer (Lv. 5)"
+        }
+    },
+    "veteranintuition": {
+        "name": "Veteran Intuition",
+        "emoji": "<:fe14_veteranintuition:1135667664623247511>",
+        "desc": "Grants Ddg+15 during battle.",
+        "reference": {
+            "Class": "Vanguard (Lv. 10)"
+        }
+    },
+    "voiceofpeace": {
+        "name": "Voice of Peace",
+        "emoji": "<:fe14_voiceofpeace:1135667665885728888>",
+        "desc": "Enemies within two spaces inflict -2 damage with their physical attacks.",
+        "reference": {
+            "Class": "Songstress (Lv. 25)"
+        }
+    },
+    "vowoffriendship": {
+        "name": "Vow of Friendship",
+        "emoji": "<:fe14_vowoffriendship:1135743701444984892>",
+        "desc": "Grants +3 dmg dealt and -3 dmg taken if allied main character has HP=50% or less.",
+        "reference": {
+            "Personal": "Silas"
+        }
+    },
+    "wardingblow": {
+        "name": "Warding Blow",
+        "emoji": "<:fe14_wardingblow:1135667669534777425>",
+        "desc": "Unit receives -20 magical damage when the unit initiates an attack.",
+        "reference": {
+            "Class": "Falcon Knight (Lv. 15)\nPegasus Knight (Lv. 35)"
+        }
+    },
+    "warp": {
+        "name": "Warp",
+        "emoji": "<:fe14_warp:1135667670872772629>",
+        "desc": "Use \"Warp\" to move next to an ally and then take another action.",
+        "reference": {
+            "Class": "Witch (Lv. 25)"
+        }
+    },
+    "waryfighter": {
+        "name": "Wary Fighter",
+        "emoji": "<:fe14_waryfighter:1135667672902811770>",
+        "desc": "Neither this unit nor enemies in combat with him/her can use follow-up attacks.",
+        "reference": {
+            "Class": "General (Lv. 5)"
+        }
+    },
+    "winddisciple": {
+        "name": "Wind Disciple",
+        "emoji": "<:fe14_winddisciple:1135743713310687274>",
+        "desc": "Grants Hit/Avo+10 when HP is less than full.",
+        "reference": {
+            "Personal": "Fuga"
+        }
+    },
+    "witchsbrew": {
+        "name": "Witch's Brew",
+        "emoji": "<:fe14_witchsbrew:1135667746869354618>",
+        "desc": "Obtain medicine at the end of your action for the first 7 turns. Trigger % = (Lck stat)",
+        "reference": {
+            "Class": "Witch (Lv. 10)"
+        }
+    },
+    "divineshield": {
+        "name": "Divine Shield",
+        "desc": "Halves damage taken. Prevents lethal, poison, and counter skills.",
+        "emoji": "<:fe14_divineshield:1135667050891714620>",
+        "reference": {}
+    },
+    "hitavo10": {
+        "name": "Hit/Avo +10",
+        "desc": "Grants Hit/Avo+10.",
+        "emoji": "",
+        "reference": {}
+    },
+    "hitavo20": {
+        "name": "Hit/Avo +20",
+        "desc": "Grants Hit/Avo+20.",
+        "emoji": "",
+        "reference": {}
+    },
+    "resiststatus": {
+        "name": "Resist Status",
+        "desc": "Halves stat-reduction effects, poison damage, and the Hit of status staves.",
+        "emoji": "<:fe14_resiststatus:1135667476621955192>",
+        "reference": {}
+    },
+    "immunestatus": {
+        "name": "Immune Status",
+        "desc": "Prevents poison damage and status effects on this unit.",
+        "emoji": "<:fe14_immunestatus:1135667224443621416>",
+        "reference": {}
+    },
+    "pointblank": {
+        "name": "Point Blank",
+        "desc": "Alters the range of bows to enable this unit to hit closer targets.",
+        "emoji": "<:fe14_pointblank:1135667341699588217>",
+        "reference": {}
+    },
+    "wingedshield": {
+        "name": "Winged Shield",
+        "desc": "Protects from bonus damage against fliers. Also enables unit to benefit from terrain.",
+        "emoji": "<:fe14_wingshield:1135667743841079416>",
+        "reference": {}
+    },
+    "voidcurse": {
+        "name": "Void Curse",
+        "desc": "Enemies earn no EXP from this unit.",
+        "emoji": "<:fe14_voidcurse:1135667668058374194>",
+        "reference": {}
+    },
+    "selfdestruct": {
+        "name": "Self-Destruct",
+        "desc": "If HP < 50%, self-destruct and damage enemies and barriers within two spaces.",
+        "emoji": "<:fe14_selfdestruct:1135667504996433941>",
+        "reference": {}
+    },
+    "staffsavant": {
+        "name": "Staff Savant",
+        "desc": "Unit can activate staves without expending a use. Sets minimum staff range at 1-10.",
+        "emoji": "<:fe14_staffsavant:1135667572944142486>",
+        "reference": {}
+    },
+    "immobilize": {
+        "name": "Immobilize",
+        "desc": "When this unit hits, target's Mov is reduced to 0 and Avo by -20 for one turn.",
+        "emoji": "<:fe14_immobilize:1135667222702997515>",
+        "reference": {}
+    },
+    "inevitableend": {
+        "name": "Inevitable End",
+        "desc": "Status effects on enemies will accumulate.",
+        "emoji": "<:fe14_inevitableend:1135667226637246616>",
+        "reference": {}
+    },
+    "paragon": {
+        "name": "Paragon",
+        "desc": "Doubles the EXP this unit receives.",
+        "emoji": "<:fe14_paragon:1135667335005487245>",
+        "reference": {}
+    },
+    "armorshield": {
+        "name": "Armor Shield",
+        "desc": "Protects from bonus damage against armor.",
+        "emoji": "",
+        "reference": {}
+    },
+    "beastshield": {
+        "name": "Beast Shield",
+        "desc": "Protects from bonus damage against beasts.",
+        "emoji": "",
+        "reference": {}
+    },
+    "magictaker": {
+        "name": "Magictaker",
+        "desc": "Mag+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "emoji": "<:fe14_magictaker:1135667300792533236>",
+        "reference": {}
+    },
+    "skilltaker": {
+        "name": "Skilltaker",
+        "desc": "Skill+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "emoji": "<:fe14_skilltaker:1135667562462597202>",
+        "reference": {}
+    },
+    "lucktaker": {
+        "name": "Lucktaker",
+        "desc": "Lck+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "emoji": "<:fe14_lucktaker:1135667262683095171>",
+        "reference": {}
+    },
+    "defensetaker": {
+        "name": "Defensetaker",
+        "desc": "Def+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "emoji": "<:fe14_defensetaker:1135667045460090923>",
+        "reference": {}
+    },
+    "resistancetaker": {
+        "name": "Resistancetaker",
+        "desc": "Res+2 on defeat of a foe you attacked (+10 max). Can't use with other Takers.",
+        "emoji": "<:fe14_resistancetaker:1135667475040698439>",
+        "reference": {}
+    }
+}

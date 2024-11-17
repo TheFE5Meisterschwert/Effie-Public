@@ -1,0 +1,5 @@
+FE4 skills: database/fe4/images/skill
+FEH Aided icon: scraper/editing/icons
+
+Most of the remaining should be in here, otherwise they can be found on the wiki
+

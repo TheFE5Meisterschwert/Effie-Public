@@ -1,0 +1,32 @@
+{
+  "marth": {
+    "name": "Marth",
+    "stats": {
+      "cooldown": -1
+    },
+    "description": "Accelerates Special trigger (cooldown count-1; max cooldown count cannot be reduced below 1). If unit triggers the \"unit attacks twice\" effect, reduces Special damage by 8.",
+    "icon": 2071,
+    "slot": "Special"
+  },
+  "ike": {
+    "name": "Ike",
+    "stats": false,
+    "description": "Enhanced Engaged Special\nIf foe's Range = 2 and unit's or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials).",
+    "icon": 2113,
+    "slot": "Special"
+  },
+  "celica": {
+    "name": "Celica",
+    "stats": false,
+    "description": "Enhanced Engaged Special\nBoosts Special damage by unit's max Special cooldown count value \u00d7 4 (excluding area-of-effect Specials).\nFor each foe within 5 spaces of unit, unit can move to the nearest spaces that are within unit's range from that foe (unless space is impassable terrain).",
+    "icon": 2163,
+    "slot": "Special"
+  },
+  "sigurd": {
+    "name": "Sigurd",
+    "stats": false,
+    "description": "Enhanced Engaged Special\nBoosts Special damage by number of spaces from start position to end position of whoever initiated combat (max 4) \u00d7 2.\nEnables\u3010Canto (X)\u3011. If unit's Range = 1, X = 3; otherwise, X = 2.\nAt start of turn, grants \"unit can move 1 extra space\" to unit for 1 turn (does not stack; excludes cavalry with Range = 2).\n\u3010Canto (X)\u3011\nAfter an attack, Assist skill, or structure destruction, unit can move X spaces (once per turn; only highest value applied; does not stack).",
+    "icon": 2260,
+    "slot": "Special"
+  }
+}

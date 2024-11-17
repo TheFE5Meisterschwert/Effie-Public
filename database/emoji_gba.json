@@ -1,0 +1,112 @@
+{
+    "anima": {
+        "name": "gba_anima",
+        "id": 1125675733361115156,
+        "animated": false
+    },
+    "dark": {
+        "name": "gba_dark",
+        "id": 1125675644383150180,
+        "animated": false
+    },
+    "lance": {
+        "name": "gba_lance",
+        "id": 1125675589223854120,
+        "animated": false
+    },
+    "axe": {
+        "name": "gba_axe",
+        "id": 1125675673785221130,
+        "animated": false
+    },
+    "light": {
+        "name": "gba_light",
+        "id": 1125675554209796126,
+        "animated": false
+    },
+    "staff": {
+        "name": "gba_staff",
+        "id": 1125675518541434890,
+        "animated": false
+    },
+    "bow": {
+        "name": "gba_bow",
+        "id": 1130396719360790628,
+        "animated": false
+    },
+    "sword": {
+        "name": "gba_sword",
+        "id": 1125675490284421180,
+        "animated": false
+    },
+    "aff_fire": {
+        "name": "aff_fire",
+        "id": 1125596167087067218,
+        "animated": false
+    },
+    "aff_dark": {
+        "name": "aff_dark",
+        "id": 1125596149085122600,
+        "animated": false
+    },
+    "aff_wind": {
+        "name": "aff_wind",
+        "id": 1125596242794270722,
+        "animated": false
+    },
+    "aff_anima": {
+        "name": "aff_anima",
+        "id": 1125596130168803498,
+        "animated": false
+    },
+    "aff_light": {
+        "name": "aff_light",
+        "id": 1125596204617711696,
+        "animated": false
+    },
+    "aff_ice": {
+        "name": "aff_ice",
+        "id": 1125596186905161819,
+        "animated": false
+    },
+    "aff_thunder": {
+        "name": "aff_thunder",
+        "id": 1125596223852773396,
+        "animated": false
+    },
+    "ephraim": {
+        "name": "ephraim",
+        "id": 1128596684151197766,
+        "animated": false
+    },
+    "lyn": {
+        "name": "lyn",
+        "id": 1128596677369020467,
+        "animated": false
+    },
+    "eirika": {
+        "name": "eirika",
+        "id": 1128596695404511242,
+        "animated": false
+    },
+    "elffin": {
+        "name": "elffin",
+        "id": 1128596685552095252,
+        "animated": false
+    },
+    "larum": {
+        "name": "larum",
+        "id": 1128596678698598502,
+        "animated": false
+    },
+    "afa": {
+        "name": "afa",
+        "id": 903305289602834492,
+        "animated": false
+    },
+    "fe7_lord": {
+        "name": "fe7_lord",
+        "id": 1128596682397995068,
+        "animated": false
+    }
+}

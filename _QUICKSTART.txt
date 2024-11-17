@@ -1,0 +1,48 @@
+To run the bot: 
+
+Add a file named ".env" with your discord bot token:
+TOKEN=XXXXXX
+
+Run main.py
+
+
+Everything inside the 'scraper' folder are separate update tools. Click into the folder for more info
+
+HOSTING:
+I used fly.io to host. It costs nothing if your bill is below $5
+
+TO TURN EMOJIS ON/OFF:
+Go to almanac/util/emoji.lua and change enabled to true/false. Links to emoji servers below though some emojis are stored in personal servers for me that I can't give access to, so those will have to be arranged before turning the emoji function on.
+
+I'll provide the emoji files and which emojis are in the redacted servers, you would just need to make your own server and replace the emoji IDs.
+
+27: https://discord.gg/pyZ9Umq3b6
+26: https://discord.gg/YVJ4C42Sax
+25: https://discord.gg/dFmqpPYgJW
+24: https://discord.gg/x8Qs7UGqMc
+23: https://discord.gg/8bYz7B6X6E
+22: https://discord.gg/6hR2CMQMXJ
+21: https://discord.gg/QjkBMdxXdQ
+20: https://discord.gg/b5HCRZgAEC
+19: https://discord.gg/CsNNtZf8m7
+18: https://discord.gg/DdBuCJTK6T
+17: https://discord.gg/3QJZBdfTBh
+16: PERSONAL INFO
+15: https://discord.gg/vDvcQ6ttA4
+14: https://discord.gg/wDCuhN26st
+13: https://discord.gg/RzyNuYhwVN
+12: https://discord.gg/sjFBQq6EYx
+11: https://discord.gg/443Y783RNF
+10: https://discord.gg/84TNXpeKtW
+9: https://discord.gg/FnKMTP5WBQ
+8: https://discord.gg/kxRYpdwkAg
+7: https://discord.gg/ePdbC4hwZ7
+6: https://discord.gg/u33xqfAH
+5: https://discord.gg/FVdYBPTYMD
+4: https://discord.gg/p3a5aqhebS
+3: https://discord.gg/X6pb7Y8N98
+2: https://discord.gg/SeEUEQ5DWJ
+1: https://discord.gg/mCauvw2sCJ
+0: PERSONAL
+00: https://discord.gg/kFEA8dVneZ
+000: PERSONAL

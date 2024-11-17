@@ -1,0 +1,9 @@
+# fly.toml file generated for veyle on 2023-07-01T13:33:17-07:00
+
+app = "veyle"
+kill_signal = "SIGINT"
+kill_timeout = 5
+primary_region = "lax"
+processes = []
+
+[env]

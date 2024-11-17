@@ -1,0 +1,60 @@
+{"aquarius": {
+	"name": "aquarius",
+	"id": 1190834036369797180,
+	"animated": false
+},
+"aries": {
+	"name": "aries",
+	"id": 1190834038139797615,
+	"animated": false
+},
+"cancer": {
+	"name": "cancer",
+	"id": 1190834039964311722,
+	"animated": false
+},
+"capricorn": {
+	"name": "capricorn",
+	"id": 1190834041197449316,
+	"animated": false
+},
+"gemini": {
+	"name": "gemini",
+	"id": 1190834043084886046,
+	"animated": false
+},
+"leo": {
+	"name": "leo",
+	"id": 1190834044158627890,
+	"animated": false
+},
+"libra": {
+	"name": "libra",
+	"id": 1190834045228159028,
+	"animated": false
+},
+"pisces": {
+	"name": "pisces",
+	"id": 1190834046830399560,
+	"animated": false
+},
+"sagittarius": {
+	"name": "sagittarius",
+	"id": 1190834048441000096,
+	"animated": false
+},
+"scorpio": {
+	"name": "scorpio",
+	"id": 1190834076815478794,
+	"animated": false
+},
+"taurus": {
+	"name": "taurus",
+	"id": 1190834083840933970,
+	"animated": false
+},
+"virgo": {
+	"name": "virgo",
+	"id": 1190834053184749720,
+	"animated": false
+}}

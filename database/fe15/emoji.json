@@ -1,0 +1,42 @@
+{
+    "silver_card": {
+        "name": "silver_card",
+        "id": 818233428298301510,
+        "animated": false
+    },
+    "gold": {
+        "name": "gold",
+        "id": 1135404949224837212,
+     
+        "animated": false
+    },
+    "silver": {
+        "name": "silver",
+        "id": 1135405091290091531,
+        "animated": false
+    },
+
+    "sword": {
+        "name": "fe15_sword",
+        "id": 1133530348299505675,
+        "animated": false
+    },
+
+        "lance": {
+        "name": "fe15_lance",
+        "id": 1133533800324939796,
+        "animated": false
+    },
+
+        "axe": {
+        "name": "fe15_axe",
+        "id": 1133534531295658037,
+        "animated": false
+    },
+
+        "bow": {
+        "name": "fe15_bow",
+        "id": 1133535134633709599,
+        "animated": false
+    }
+}
