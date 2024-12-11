@@ -1,15 +1,15 @@
 import discord, random
 from discord.ext import tasks
 
-OWNER_ID = 611005635223617577
+OWNER_ID = 539500146287968267
 
 random_status = [
-    "Taller than Edelgard",
-    "Try out compare! @Veyle fe4 lewyn!ced, lewyn!arthur 14",
-    "Cipher cards look pretty cool: @Veyle cipher",
-    "Have you seen my sister?",
-    "@Veyle calendar",
-    "@Veyle legendary"
+    "Strength is Everything!",
+    "Try out compare! @Effie fe4 lewyn!ced, lewyn!arthur 14",
+    "Cipher cards look pretty cool: @Effie cipher",
+    "The name's Effie. I'm a knight from Nohr. Need protection? I'll crush anyone that gets in your way.",
+    "@Effie calendar",
+    "@Effie legendary"
 ]
 
 discord.utils.setup_logging()
