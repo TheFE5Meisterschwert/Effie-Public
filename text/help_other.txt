@@ -1,8 +1,8 @@
 **Heroes**
-`@Veyle feh` - Heroes
+`@Effie feh` - Heroes
 
-`@Veyle skill` - Shortcut for Heroes skills.
-`@Veyle art` - Shortcut for Heroes art.
-`@Veyle artist` - Shortcut for Heroes artist.
-`@Veyle va` - Shortcut for Heroes VA.
-`@Veyle quotes` - Shortcut for Heroes quotes.
+`@Effie skill` - Shortcut for Heroes skills.
+`@Effie art` - Shortcut for Heroes art.
+`@Effie artist` - Shortcut for Heroes artist.
+`@Effie va` - Shortcut for Heroes VA.
+`@Effie quotes` - Shortcut for Heroes quotes.
